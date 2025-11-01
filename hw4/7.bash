@@ -1,5 +1,5 @@
 
 alias ll='ls -la'
 
-echo "alias ll='ls -la'" >> ~/.bashrc
+echo "alias ll='ls -la'" >> ~/.zshrc
 source ~/.zshrc
